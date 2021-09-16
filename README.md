@@ -1,3 +1,3 @@
 # vehicle_pricings
-Utilizing a vehicle.csv dataset (obtained from Kaggle: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0JNYlc1NXpQbldXYUVqT3VYcEM4S1pNaHRqd3xBQ3Jtc0tua0J5S2U0aFhJR3lZcGRJbnBzWkFYbXBJdlFmdWxWaUlyWlRWdTJFbmVEcDE0dVNDNGJ6d1o0TXNvQk9hVTZSZnhEWlhTd3hzSXpUWlY1YUNmUHlDNmVMZVc4ZDlJNXc1MzJyNjZhUEFBTUkyQ055MA&q=https%3A%2F%2Fwww.kaggle.com%2Faustinreese%2Fcraigslist-carstrucks-data)
+Utilizing a vehicle.csv dataset (obtained from Kaggle: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 Training a linear regression model, implementing gradient boosting machine, comparing metrics for assessing the differences, then working on optimization
